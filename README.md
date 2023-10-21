@@ -1,16 +1,39 @@
 ### Hi there 👋
 
-<!--
-**quick003/quick003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills:
 
-Here are some ideas to get you started:
+- **Cloud:** AWS
+- **Operating Systems:** Ubuntu, CentOS
+- **Database:** MySQL Server, MariaDB
+- **Versioning Tools:** Git, GitHub
+- **Containerization Tool:** Docker
+- **Proxy Server:** Squid Proxy
+- **SMTP Servers:** PowerMta, Postal, Zimbra
+- **Mail Marketing Tools:** Mautic, Mailwizz, Acellemail
+- **Web Control Panels:** CyberPanel, Virtualmin, Vesta CP, cPanel
+- **DNS Records Configuration**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Experience:
+
+- **SMTP Server Administrator:** 2+ years
+  - Maintained and supported a large network of SMTP servers
+  - Installed, configured, and troubleshooted Linux-based systems
+
+- **AWS Cloud Infrastructure Specialist:** 1.6 years
+  - Designed and implemented scalable cloud infrastructure solutions using AWS services
+
+- **SMTP Server Configuration Expert:**
+  - Configured, managed, and troubleshooted SMTP servers for dependable email connectivity
+
+- **Web Control Panel Management:** 1.6 years
+  - Managed web control panels for effective website hosting environments
+  - Handled tasks such as domain management, FTP account management, and database administration
+
+- **User Assistance and Problem Resolution:**
+  - Offered user assistance and effectively resolved website-related problems
+
+- **Email Protocols, Authentication, and Encryption:**
+  - Demonstrated familiarity with various email protocols, authentication techniques, and encryption methods
+
+- **Web Server Technology and Security Assurance:**
+  - Possessed strong knowledge of web server technology, including performance optimization and security assurance
