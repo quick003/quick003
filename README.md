@@ -1,5 +1,5 @@
 # My Professional Profile 🚀
-![Profile Image]([https://your-image-url.com](https://photos.app.goo.gl/654zKwSPJDUyiEhj8))
+![Profile Image]([https://your-image-url.com]([https://photos.app.goo.gl/654zKwSPJDUyiEhj8](https://drive.google.com/file/d/1mekU-7AgL04DR9Sf9a6vu72BzHiAIZ5J/view?usp=share_link)))
 
 ## Introduction 👋
 Hello, I'm a highly skilled professional with a passion for all things tech. I've had the privilege of working with a wide range of technologies and platforms. Here's a snapshot of my expertise and experience.
