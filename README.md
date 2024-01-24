@@ -42,4 +42,4 @@ Hello, I'm a highly skilled professional with a passion for all things tech. I'v
 
 Feel free to reach out if you have any questions or if you're interested in collaborating on a project. I'm always up for new challenges and opportunities! 📩
 
-![Contact me](https://github.com/quick003/ritik/blob/master/image)
+![Contact me](https://github.com/quick003/ritik/blob/master/image.png)
