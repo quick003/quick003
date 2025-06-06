@@ -1,45 +1,80 @@
-# My Professional Profile 🚀
+# 💼 Ritik Kumar – Cloud Engineer & System Administrator
+
 ![Profile Image](https://github.com/quick003/ritik/blob/master/image.jpeg)
 
-## Introduction 👋
-Hello, I'm a highly skilled professional with a passion for all things tech. I've had the privilege of working with a wide range of technologies and platforms. Here's a snapshot of my expertise and experience.
+Welcome to my professional profile! I'm a tech enthusiast who thrives on solving real-world infrastructure challenges using cloud computing, Linux systems, and email technologies. I specialize in building scalable, secure, and automated environments for web and email systems.
 
-## Skills 🛠️
-- **Cloud**: AWS
-- **Operating Systems**: Ubuntu, CentOS
-- **Database**: MySQL Server, MariaDB
-- **Versioning Tools**: Git, GitHub
-- **Containerization Tool**: Docker
+---
+
+## 🚀 About Me
+
+Hello! I'm Ritik Kumar, a Cloud Engineer with over **2 years of experience** in Linux administration, cloud infrastructure design, SMTP server management, and control panel administration.
+
+I currently work as a **Linux Administrator at Inguide Solutions Pvt Ltd**, where I configure, monitor, and troubleshoot mission-critical server systems. I enjoy working with cloud platforms like AWS and OCI, and I’m passionate about creating reliable, automated, and secure back-end infrastructures.
+
+---
+
+## 🛠️ Skills
+
+### Cloud & DevOps
+- **AWS Services**: EC2, S3, RDS, SES, IAM, CloudWatch
+- **Oracle Cloud Infrastructure (OCI)**
+- **Docker**, **CI/CD**, **Azure DevOps**
+
+### Linux & Servers
+- **Operating Systems**: Ubuntu, CentOS, RHEL
+- **SMTP Servers**: PowerMTA, Postal, Zimbra
 - **Proxy Server**: Squid Proxy
-- **SMTP Servers**: PowerMta, Postal, Zimbra
-- **Mail Marketing Tools**: Mautic, Mailwizz, Acellemail
-- **Web Control Panels**: CyberPanel, Virtualmin, Vesta CP, cPanel
-- **DNS Records Configuration**
+- **DNS Management**: A, MX, CNAME, SPF, DKIM, DMARC, TXT
 
-## Experience 💼
-### SMTP Server Administrator (2+ years)
-- *Maintained and supported a large network of SMTP servers*
-- *Installed, configured, and troubleshooted Linux-based systems*
+### Web & Control Panels
+- CyberPanel, cPanel, Virtualmin, Vesta CP
+- Database: MySQL, MariaDB
+- Email Marketing Tools: Mautic, Mailwizz, Acellemail
 
-### AWS Cloud Infrastructure Specialist (1.6 years)
-- *Designed and implemented scalable cloud infrastructure solutions using AWS services*
+### Tools & Technologies
+- Git, GitHub, Bash, Prometheus, Postfix
+- SSL/TLS, Firewall rules, Security hardening
 
-### SMTP Server Configuration Expert
-- *Configured, managed, and troubleshooted SMTP servers for dependable email connectivity*
+---
 
-### Web Control Panel Management (1.6 years)
-- *Managed web control panels for effective website hosting environments*
-- *Handled tasks such as domain management, FTP account management, and database administration*
+## 💼 Professional Experience
 
-## User Assistance and Problem Resolution 🛠️
-- *Offered user assistance and effectively resolved website-related problems*
+### 🔧 Linux Administrator | Inguide Solutions Pvt Ltd *(2022–Present)*
+- Configured and managed a distributed infrastructure of SMTP servers
+- Deployed secure and scalable web hosting environments
+- Monitored server performance and resolved incidents proactively
 
-## Email Protocols, Authentication, and Encryption 📧
-- *Demonstrated familiarity with various email protocols, authentication techniques, and encryption methods*
+### ☁️ Cloud Infrastructure Specialist | Freelancer
+- Designed and implemented AWS-based scalable infrastructure
+- Automated email delivery using Amazon SES and Dockerized Postfix
+- Built decentralized, privacy-focused storage systems
 
-## Web Server Technology and Security Assurance 🔐
-- *Possessed strong knowledge of web server technology, including performance optimization and security assurance*
+---
 
-Feel free to reach out if you have any questions or if you're interested in collaborating on a project. I'm always up for new challenges and opportunities! 📩
+## 📂 Featured Projects
+
+### 🔐 Decentralized File Storage System
+> A secure, decentralized file storage and sharing platform focused on user privacy and blockchain-backed integrity.
+
+### 📧 Scalable Email Delivery on AWS (SES + Docker + ECS)
+> Built a containerized email delivery system using Amazon SES and Postfix, deployed via AWS ECS Fargate for high availability.
+
+### 🔄 CI/CD Pipeline for Snowflake with Azure DevOps
+> Developed a secure, automated CI/CD pipeline to deploy SQL scripts to Snowflake using Azure DevOps and GitHub.
+
+---
+
+## 📞 Contact Me
+
+📧 Email: [ritik@ritikkumar.cloud](mailto:ritik@ritikkumar.cloud)  
+🌐 Website: [ritikkumar.cloud](https://ritikkumar.cloud)  
+📱 Phone: +91-6203214827  
+💼 LinkedIn: [linkedin.com/in/ritikkumar003](https://www.linkedin.com/in/ritikkumar003)  
+💻 GitHub: [github.com/quick003](https://github.com/quick003)
+
+---
+
+> ✨ *Always open to exciting collaborations and learning opportunities.* Feel free to connect or drop a message!
 
 ![Contact me](https://github.com/quick003/ritik/blob/master/image.png)
